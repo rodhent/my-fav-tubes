@@ -16,8 +16,10 @@ A MERN app that allows you to enter your favorite YouTube videos and it will ren
   - axios
   - styled-components
   - react-hook-form
+  - react-router
   - cypress
   - lambda-react
+  
 
 - Backend
 
